@@ -16,6 +16,9 @@ Para que `import` y `export` funcionen en el navegador, tu archivo HTML debe car
 ```
 
 **Nota:** Cada ejercicio debe tener su propia carpeta independiente
+
+---
+
 **Nota:** Cada ejercicio debe tener su propio commit
 
 ---
